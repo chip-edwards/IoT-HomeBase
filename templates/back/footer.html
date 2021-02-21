@@ -1,0 +1,16 @@
+{% load static %}
+{% load custom_tags %}
+{% load i18n %}
+
+<footer class="footer">
+    <div class="container">
+        <p class="pull-right"> &copy; 2021 {% website_name %} |
+            <a href="https://www.chip-edwards.com">{% trans 'Chip' %} </a> |
+            <a href="#">{% trans 'Placeholder' %} </a> |
+            <a href="#">{% trans 'Another Placeholder' %} </a> |
+            <a href="https://portfolio.chip-edwards.com/"> {% trans 'Portfolio' %} </a> |
+            <a> Ver: {% version %} | </a>
+            <a href="#">&nbsp;{% trans 'Top' %}&nbsp;</a>
+        </p>
+    </div>
+</footer>

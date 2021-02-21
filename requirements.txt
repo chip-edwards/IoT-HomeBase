@@ -1,0 +1,6 @@
+Django==3.1
+djangorestframework
+markdown
+django-filter
+sphinx
+whitenoise
