@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
 """
-  Python ile IoThook REST Api Testi
+    IoThook REST Api Test with Python
 
-  Kod çalıştırıldığında APIKEY ile doğrulama gerçekleştirilir.
-  Cihaz api_key ile ilgili veriler IoThook a post edilir.
+   When the code is run, verification is performed with APIKEY.
+   Data about the device api_key is posted to IoThook.
 
-  Bu ornek IotHook servisine veri almak/gondermek icin baslangic seviyesinde
-  testlerin yapilmasini amaclamaktadir.
+   This example is at the initial level to send / receive data to the IotHook service.
+   It aims to conduct tests.
 
   20 Eylul 2017
   Güncelleme : 19 Agustos 2019
