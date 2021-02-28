@@ -1,6 +1,8 @@
-Django==3.1
+Django
 djangorestframework
-markdown
+django-oauth-toolkit
 django-filter
+markdown
+Pillow
 sphinx
 whitenoise
